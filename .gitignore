@@ -1,1 +1,4 @@
 env/
+notas.txr
+config/secret.py
+config/config.py
