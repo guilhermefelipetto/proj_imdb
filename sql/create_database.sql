@@ -23,4 +23,3 @@ CREATE TABLE user_category (
     FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE,
     FOREIGN KEY (category_id) REFERENCES category(id) ON DELETE CASCADE
 );
-
