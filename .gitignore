@@ -1,4 +1,10 @@
-env/
-notas.txr
-config/secret.py
-config/config.py
+venv/
+
+config/
+
+# txts
+notas.txt
+windows/login_window.txt
+windows/main_window.txt
+imdb_data/imdb_data_notas.txt
+sql/sql_notas.txt
